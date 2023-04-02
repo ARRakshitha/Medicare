@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "medicare"
+    }
+  },
+  "defaultProject": "medicare",
+  "cli": {
+    "analytics": "193f3957-23ad-427b-ad8c-7b88fd09cf53"
+  }
 }
